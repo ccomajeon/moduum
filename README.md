@@ -71,7 +71,7 @@ MyBatis를 사용하여 쿼리를 불러온 후 JSTL로 Google-Chart에 값을 �
 
 #### (1) MVC 패턴 구현
 <ul>
-  <li>MODEL : JAVA BEANS</li>
+  <li>MODEL : 비즈니스 로직을 처리하도록 구현</li>
   <li>VIEW : APACH TOMCAT을 서버로 사용하여 JSP 구현</li>
   <li>Controller : 위의 업무의 데이터를 송/수신 하기위해 Controller, Service, Dao, Dto구현</li>
 </ul>
